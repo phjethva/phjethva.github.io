@@ -49760,16 +49760,20 @@ X(a,b){return new S.qp(new X.pU(null),"Pratik Jethva",X.a7_(null,C.hY),!1,null)}
 X.pU.prototype={
 aQ(){return new X.Eq(C.o)}}
 X.Eq.prototype={
-X(a,b){var s,r,q,p,o=null,n=U.ib()===C.M||U.ib()===C.I,m=t.w,l=b.ai(m).f.a.a
-m=b.ai(m).f
+X(a,b){var s,r,q,p,o,n,m,l=null,k=U.ib()===C.M||U.ib()===C.I,j=t.w,i=b.ai(j).f.a.a
+j=b.ai(j).f
 s=H.a([new P.G(4282525530),new P.G(4285746029)],t.bk)
 r=H.a([0,1],t.W)
-q=t.nA
-r=M.jS(o,T.p7(T.a0R(H.a([K.a52(C.j,o,K.a52(o,new L.oW("web/icons/Icon-512.png"),o,105),110),T.rT(o,50,o),L.BT("Hello, I'm Pratik Jethva",A.hP(o,o,C.j,o,o,o,o,o,o,o,o,38,C.aG,C.u,o,o,!0,o,1,o,o,o,o,o,o)),T.rT(o,20,o),L.BT("Mobile Application Developer",A.hP(o,o,C.j,o,o,o,o,o,o,o,o,20,C.aG,C.u,o,o,!0,o,1,o,o,o,o,o,o))],q),C.ek),o,o),C.w,o,o,new S.ep(o,o,o,o,o,new T.mq(C.jB,C.fe,C.bL,s,r,o),C.a5),o,o,o,new V.bl(0,120,0,30),o,o,l)
-s=n?40:80
-p=n?25:50
-m=T.a0R(H.a([T.Uq(C.dx,H.a([r,M.jS(o,new T.mE(new V.bl(p,0,0,0),new T.lB(C.jD,o,o,L.BT("Welcome To My PORTFOLIO!",A.hP(o,o,C.j,o,o,o,o,o,o,o,o,n?18:36,C.aG,C.bs,o,o,!0,o,1,o,o,o,o,o,o)),o),o),C.w,C.lm,o,o,o,s,o,o,o,o,l)],q),C.cu),M.jS(o,T.a0R(H.a([new T.y8(1,C.dM,T.p7(L.BT("Coming Soon...",A.hP(o,o,C.m,o,o,o,o,o,o,o,o,28,C.aG,C.u,o,o,!0,o,0,o,o,o,o,o,o)),o,o),o),new Z.xQ(2,C.m,o),M.jS(o,L.BT("Made with LOVE in Flutter",A.hP(o,o,C.m,o,o,o,o,o,o,o,o,18,C.aG,C.u,o,o,!0,o,0,o,o,o,o,o,o)),C.w,o,o,o,o,o,new V.bl(10,10,10,10),o,o,o,o)],q),C.hR),C.w,C.j,o,o,o,m.a.b,o,o,o,o,o)],q),C.ek)
-return new M.ru(new E.Bi(!0,m,o),o)}}
+q=K.a52(C.j,l,K.a52(l,new L.oW("web/icons/Icon-512.png"),l,105),110)
+p=T.rT(l,50,l)
+o=L.BT("Hello, I'm Pratik Jethva",A.hP(l,l,C.j,l,l,l,l,l,l,l,l,k?18:36,C.aG,C.u,l,l,!0,l,1,l,l,l,l,l,l))
+n=T.rT(l,20,l)
+m=t.nA
+r=M.jS(l,T.p7(T.a0R(H.a([q,p,o,n,L.BT("Mobile Application Developer",A.hP(l,l,C.j,l,l,l,l,l,l,l,l,k?15:20,C.aG,C.u,l,l,!0,l,1,l,l,l,l,l,l))],m),C.ek),l,l),C.w,l,l,new S.ep(l,l,l,l,l,new T.mq(C.jB,C.fe,C.bL,s,r,l),C.a5),l,l,l,new V.bl(0,120,0,30),l,l,i)
+s=k?40:80
+q=k?25:50
+j=T.a0R(H.a([T.Uq(C.dx,H.a([r,M.jS(l,new T.mE(new V.bl(q,0,0,0),new T.lB(C.jD,l,l,L.BT("Welcome To My PORTFOLIO!",A.hP(l,l,C.j,l,l,l,l,l,l,l,l,k?18:36,C.aG,C.bs,l,l,!0,l,1,l,l,l,l,l,l)),l),l),C.w,C.lm,l,l,l,s,l,l,l,l,i)],m),C.cu),M.jS(l,T.a0R(H.a([new T.y8(1,C.dM,T.p7(L.BT("Coming Soon...",A.hP(l,l,C.m,l,l,l,l,l,l,l,l,28,C.aG,C.u,l,l,!0,l,0,l,l,l,l,l,l)),l,l),l),new Z.xQ(2,C.m,l),M.jS(l,L.BT("Made with LOVE in Flutter",A.hP(l,l,C.m,l,l,l,l,l,l,l,l,18,C.aG,C.u,l,l,!0,l,0,l,l,l,l,l,l)),C.w,l,l,l,l,l,new V.bl(10,10,10,10),l,l,l,l)],m),C.hR),C.w,C.j,l,l,l,j.a.b,l,l,l,l,l)],m),C.ek)
+return new M.ru(new E.Bi(!0,j,l),l)}}
 E.hT.prototype={
 gl(a){return this.b},
 i(a,b){if(b>=this.b)throw H.b(P.bc(b,this,null,null,null))
